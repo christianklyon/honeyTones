@@ -1,4 +1,4 @@
-Ideas for solo project:
+plan
 
 Chromesthesia site (Honeytone)
 - each hexagon renders from left to right, and quick ripple once all are rendered. From there, multi-color changes starting at top right corner. Once reached opposing ends, ripple starts from right to left. clicking on a button, causes a ripple
